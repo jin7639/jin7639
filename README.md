@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=ffe057&height=300&section=header&text=Jinny%20WHPH&fontSize=90)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](linkhere)
